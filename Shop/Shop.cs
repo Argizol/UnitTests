@@ -1,4 +1,4 @@
-﻿using UnitTests.Shop.Shop;
+﻿using UnitTests.Shop.Product;
 
 namespace UnitTests.Shop
 {

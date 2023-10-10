@@ -1,4 +1,4 @@
-﻿namespace UnitTests.Shop.Shop
+﻿namespace UnitTests.Shop.Product
 {
     public class MyProduct
     {
