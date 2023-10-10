@@ -1,4 +1,5 @@
-﻿using UnitTests.Shop;
+﻿using UnitTests;
+using UnitTests.Shop;
 using UnitTests.Shop.Shop;
 
 var prod1 = new MyProduct(10, "product1");
@@ -17,3 +18,7 @@ Console.WriteLine($"Самый дорогой продукт: {mostExpensiveProd
 var sortedList = productsList.SortProductByPrice();
 Console.WriteLine();
 MyShop.PrintMyProductsList(sortedList);
+
+var resultPrice = Calculator.calculatingDiscount(100, 10);
+Console.WriteLine();
+Console.WriteLine(resultPrice);
