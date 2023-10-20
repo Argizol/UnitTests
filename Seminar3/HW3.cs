@@ -11,7 +11,7 @@ namespace Seminar3
     {
         int n {  get; set; }
         public HW3() { }
-        public static bool EvenOddNumber(int n)
+        public bool EvenOddNumber(int n)
         {
             if (n % 2 == 0)
             {
