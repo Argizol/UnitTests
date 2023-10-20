@@ -24,7 +24,9 @@ namespace Seminar3
         }
         public bool NumberInInterval(int n)
         {
-            return default;
+            if(n > 25 && n < 100)
+                return true;
+            return false;
         }
 
     }
