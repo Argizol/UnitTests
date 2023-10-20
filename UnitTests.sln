@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopTests", "..\ShopTests\S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator.tests", "..\Calculator.tests\Calculator.tests.csproj", "{C1F27C59-C310-45F7-9373-F9E3292E66DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{C47A9406-6EA7-445E-9B8E-8222830B5E09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{C47A9406-6EA7-445E-9B8E-8222830B5E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seminar3", "Seminar3\Seminar3.csproj", "{33EB40E3-779E-45A9-A4CA-B66F283CA44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seminar3.Tests", "..\Seminar3.Tests\Seminar3.Tests.csproj", "{EB9EB0B3-6660-4F86-B532-97E96DC0F6B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{C47A9406-6EA7-445E-9B8E-8222830B5E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C47A9406-6EA7-445E-9B8E-8222830B5E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C47A9406-6EA7-445E-9B8E-8222830B5E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33EB40E3-779E-45A9-A4CA-B66F283CA44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33EB40E3-779E-45A9-A4CA-B66F283CA44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33EB40E3-779E-45A9-A4CA-B66F283CA44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33EB40E3-779E-45A9-A4CA-B66F283CA44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9EB0B3-6660-4F86-B532-97E96DC0F6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9EB0B3-6660-4F86-B532-97E96DC0F6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9EB0B3-6660-4F86-B532-97E96DC0F6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9EB0B3-6660-4F86-B532-97E96DC0F6B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
