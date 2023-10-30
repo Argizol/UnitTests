@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\argiz\\source\\repos\\UnitTests\\HW6\\HW6.csproj": {}
+    "C:\\Users\\argiz\\Source\\Repos\\UnitTests\\HW6\\HW6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\argiz\\source\\repos\\UnitTests\\HW6\\HW6.csproj": {
+    "C:\\Users\\argiz\\Source\\Repos\\UnitTests\\HW6\\HW6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\argiz\\source\\repos\\UnitTests\\HW6\\HW6.csproj",
+        "projectUniqueName": "C:\\Users\\argiz\\Source\\Repos\\UnitTests\\HW6\\HW6.csproj",
         "projectName": "HW6",
-        "projectPath": "C:\\Users\\argiz\\source\\repos\\UnitTests\\HW6\\HW6.csproj",
+        "projectPath": "C:\\Users\\argiz\\Source\\Repos\\UnitTests\\HW6\\HW6.csproj",
         "packagesPath": "C:\\Users\\argiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\argiz\\source\\repos\\UnitTests\\HW6\\obj\\",
+        "outputPath": "C:\\Users\\argiz\\Source\\Repos\\UnitTests\\HW6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

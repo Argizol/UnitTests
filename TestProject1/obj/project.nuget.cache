@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e1pvTNEdMhlqszxtxCecA8Y17WuCpNp27mfx8HJjhnGqH/eIaAQKmEGFfL3tpKDDamWVXQn668bWHZnCvS69ag==",
+  "dgSpecHash": "bU3u8omDPcMIZovsIOqbXTmhSwZANE5JyfRLjyY6EJqkseQGES+17h1fhc2IZPn4mAy1EL85/hgTUK2BLT5muw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\argiz\\source\\repos\\UnitTests\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\argiz\\Source\\Repos\\UnitTests\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\argiz\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\argiz\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
